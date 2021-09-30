@@ -1,2 +1,2 @@
 # SimpleNumerics
-A project aimed to learn the basic building blocks numerical methods
+A project aimed to learn the basic building blocks numerical methods. Written in FORTRAN.
